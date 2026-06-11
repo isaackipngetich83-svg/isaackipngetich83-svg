@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Isaac Kipngetich </h1>
+<h1 align="center">Hi , I'm Isaac Kipngetich </h1>
 
 <p align="center">
-  <em>Computer Science Student at Kibabii University · Web Developer · Python Enthusiast</em>
+  <em>Computer Science .Android Developer · Web Developer · Data Scientist</em>
 </p>
 
 <p align="center">
